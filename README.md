@@ -27,3 +27,28 @@ Di halaman detail film, user dapat melihat detail-detail film seperti judul, tah
 ![image](https://github.com/user-attachments/assets/70d26c4b-80a6-4c89-8395-50891d9ce32b)
 ![image](https://github.com/user-attachments/assets/9d14cd4d-72d9-4f2c-bba2-9f8567386350)
 
+Jika user belum melakukan sign in, maka tombol ini tidak muncul.
+![image](https://github.com/user-attachments/assets/1a355343-cc81-4bc7-ae8e-afb43de67a07)
+
+Jika user telah melakukan sign in maka tersedia tombol “Make A Review” pada halaman detail film di bawah sinopsis.
+![image](https://github.com/user-attachments/assets/af798341-4fdc-4539-8a8d-6e18cfffe3b8)
+
+User dapat membuat review dengan cara menekan tombol ini, kemudian akan muncul popup formulir. User dapat menambahkan rating dan menulis review pada formulir tersebut.
+![image](https://github.com/user-attachments/assets/c683e9a4-4382-42ae-9e1d-5984c122ae18)
+
+![image](https://github.com/user-attachments/assets/b3288ba6-206e-4410-8041-15640e39ccb4)
+User dapat mengedit rating dan review dengan cara menekan tombol yang berbentuk pensil di sebelah kanan review yang telah dibuat.
+![image](https://github.com/user-attachments/assets/09e0a9b0-2dd4-45dc-9107-653df008a115)
+User dapat menghapus review yang telah dibuat dengan cara menekan tombol yang berbentuk tong sampah di sebelah kanan review.
+![image](https://github.com/user-attachments/assets/f1984902-83e6-4360-b147-87135b3a5948)
+
+
+
+
+
+
+
+
+
+
+
