@@ -41,11 +41,11 @@ User dapat menghapus review yang telah dibuat dengan cara menekan tombol yang be
 User dapat mengedit rating dan review dengan cara menekan tombol yang berbentuk pensil di sebelah kanan review yang telah dibuat.
 ![image](https://github.com/user-attachments/assets/a15dc59c-3f8e-4789-b813-1602fee11f1e)
 
-Pada halaman ini user dapat mengedit Username dan Password dengan cara memasukkan username baru dan password baru lalu menekan tombol save.
+Pada halaman Profil, user dapat mengedit Username dan Password dengan cara memasukkan username baru dan password baru lalu menekan tombol save.
 ![image](https://github.com/user-attachments/assets/ad036bb3-0180-44ff-b295-55bf9e1f7670)
 
-Pada halamn ini Admin dapat mencari, menambahkan, mengedit dan menghapus film. Admin juga dapat menambahkan film yang sedang populer untuk ditampilkan di halaman Home.
-![image](https://github.com/user-attachments/assets/62dd6c02-861e-4d65-a852-f8a9cd80daa6)
+Pada halamn Manage Films, Admin dapat mencari, menambahkan, mengedit dan menghapus film. Admin juga dapat menambahkan film yang sedang populer untuk ditampilkan di halaman Home.
+![image](https://github.com/user-attachments/assets/481f3fea-2e64-4663-b2e4-15d550a842b8)
 ![image](https://github.com/user-attachments/assets/e945976a-c451-4563-ad9c-548fe618ce13)
 
 
@@ -60,7 +60,8 @@ Admin dapat mengedit dan menghapus film yang diinginkan dengan cara menekan tomb
 ![image](https://github.com/user-attachments/assets/627b5dc4-221c-402c-bec2-c08a32662676)
 Admin juga dapat memilih dan menambahkan film untuk ditampilkan pada “populer this week” dengan cara menekan tombol berbentuk bintang.
 
-
+User dapat melakukan sign out dengan cara menekan tombol Sign Out pada navbar.
+![image](https://github.com/user-attachments/assets/7033e552-cb27-412b-b04f-a57fa8201aba)
 
 
 
