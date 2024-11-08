@@ -36,12 +36,29 @@ Jika user telah melakukan sign in maka tersedia tombol “Make A Review” pada 
 User dapat membuat review dengan cara menekan tombol ini, kemudian akan muncul popup formulir. User dapat menambahkan rating dan menulis review pada formulir tersebut.
 ![image](https://github.com/user-attachments/assets/c683e9a4-4382-42ae-9e1d-5984c122ae18)
 
+User dapat menghapus review yang telah dibuat dengan cara menekan tombol yang berbentuk tong sampah di sebelah kanan review.
 ![image](https://github.com/user-attachments/assets/b3288ba6-206e-4410-8041-15640e39ccb4)
-User dapat mengedit rating dan review dengan cara menekan tombol yang berbentuk pensil di sebelah kanan review yang telah dibuat.![image](https://github.com/user-attachments/assets/09e0a9b0-2dd4-45dc-9107-653df008a115)
-User dapat menghapus review yang telah dibuat dengan cara menekan tombol yang berbentuk tong sampah di sebelah kanan review.![image](https://github.com/user-attachments/assets/f1984902-83e6-4360-b147-87135b3a5948)
+User dapat mengedit rating dan review dengan cara menekan tombol yang berbentuk pensil di sebelah kanan review yang telah dibuat.
+![image](https://github.com/user-attachments/assets/a15dc59c-3f8e-4789-b813-1602fee11f1e)
+
+Pada halaman ini user dapat mengedit Username dan Password dengan cara memasukkan username baru dan password baru lalu menekan tombol save.
+![image](https://github.com/user-attachments/assets/ad036bb3-0180-44ff-b295-55bf9e1f7670)
+
+Pada halamn ini Admin dapat mencari, menambahkan, mengedit dan menghapus film. Admin juga dapat menambahkan film yang sedang populer untuk ditampilkan di halaman Home.
+![image](https://github.com/user-attachments/assets/62dd6c02-861e-4d65-a852-f8a9cd80daa6)
+![image](https://github.com/user-attachments/assets/e945976a-c451-4563-ad9c-548fe618ce13)
 
 
+Admin dapat mencari film berdasakan Title.
+![image](https://github.com/user-attachments/assets/58d2114d-a871-4460-a0c2-d7e39baf505a)
 
+Admin dapat menambahkan film untuk ditampilkan di halaman “Films” dengan cara menekan tombol “Add Film”
+kemudian mengisi formulir yang berisi Title, Year, Director, Genre, Synopsis, dan mengupload file untuk gambar backdrop dan gambar poster.
+![image](https://github.com/user-attachments/assets/2887678f-2697-41fe-9eca-8133858911a5)
+
+Admin dapat mengedit dan menghapus film yang diinginkan dengan cara menekan tombol yang tersedia (tombol pensil unutk edit dan tombol tong sampah untuk hapus).
+![image](https://github.com/user-attachments/assets/627b5dc4-221c-402c-bec2-c08a32662676)
+Admin juga dapat memilih dan menambahkan film untuk ditampilkan pada “populer this week” dengan cara menekan tombol berbentuk bintang.
 
 
 
