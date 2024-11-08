@@ -37,10 +37,9 @@ User dapat membuat review dengan cara menekan tombol ini, kemudian akan muncul p
 ![image](https://github.com/user-attachments/assets/c683e9a4-4382-42ae-9e1d-5984c122ae18)
 
 ![image](https://github.com/user-attachments/assets/b3288ba6-206e-4410-8041-15640e39ccb4)
-User dapat mengedit rating dan review dengan cara menekan tombol yang berbentuk pensil di sebelah kanan review yang telah dibuat.
-![image](https://github.com/user-attachments/assets/09e0a9b0-2dd4-45dc-9107-653df008a115) /n
-User dapat menghapus review yang telah dibuat dengan cara menekan tombol yang berbentuk tong sampah di sebelah kanan review.
-![image](https://github.com/user-attachments/assets/f1984902-83e6-4360-b147-87135b3a5948)
+User dapat mengedit rating dan review dengan cara menekan tombol yang berbentuk pensil di sebelah kanan review yang telah dibuat.![image](https://github.com/user-attachments/assets/09e0a9b0-2dd4-45dc-9107-653df008a115)
+User dapat menghapus review yang telah dibuat dengan cara menekan tombol yang berbentuk tong sampah di sebelah kanan review.![image](https://github.com/user-attachments/assets/f1984902-83e6-4360-b147-87135b3a5948)
+
 
 
 
