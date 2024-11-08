@@ -12,10 +12,13 @@ Navbar jika User telah melakukan sign in, navbar akan menampilkan pilihan berupa
 Navbar jika User melakukan Sign in dengan akun admin, maka navbar akan menampilkan pilihan berupa Home, Manage Films, Films, dan Sign Out
 ![image](https://github.com/user-attachments/assets/c1b3a0d7-671d-4518-b4a8-74446553074c)
 
-Create Account
-Jika user belum memiliki akun atau ingin membuat akun baru, user dapat membuat akun pada halaman ini dengan cara menambahkan username dan passowrd.
+Jika user belum memiliki akun atau ingin membuat akun baru, user dapat membuat akun pada halaman Create Account dengan cara menambahkan Username dan Password.
 ![image](https://github.com/user-attachments/assets/9ef7bf6c-786a-44a6-a85a-5047f1122607)
 
-Sign In
 Jika user telah memiliki akun, maka user dapat melakukan sign in pada halaman Sign In dengan cara memasukkan Username dan Password.
 ![image](https://github.com/user-attachments/assets/acaa6560-d54c-4259-a6de-d173bdb0b29e)
+
+Pada halaman Films, user dapat melihat tampilan katalog film. User dapat mencari, memfilter, menyortir, dan juga melihat detail film dengan cara mengklik film yang ingin dilihat.
+![image](https://github.com/user-attachments/assets/183159e3-0bdd-4afd-9463-d0a3053dd730)
+![image](https://github.com/user-attachments/assets/f876f6fc-4546-4dad-9619-811339f2a6b8)
+![image](https://github.com/user-attachments/assets/774443b0-867f-40fa-915f-fc69d7aa1b22)
