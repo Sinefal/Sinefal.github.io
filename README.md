@@ -22,3 +22,8 @@ Pada halaman Films, user dapat melihat tampilan katalog film. User dapat mencari
 ![image](https://github.com/user-attachments/assets/183159e3-0bdd-4afd-9463-d0a3053dd730)
 ![image](https://github.com/user-attachments/assets/f876f6fc-4546-4dad-9619-811339f2a6b8)
 ![image](https://github.com/user-attachments/assets/774443b0-867f-40fa-915f-fc69d7aa1b22)
+
+Di halaman detail film, user dapat melihat detail-detail film seperti judul, tahun rilis, director, sinopsis, rating, dan kolom review. 
+![image](https://github.com/user-attachments/assets/70d26c4b-80a6-4c89-8395-50891d9ce32b)
+![image](https://github.com/user-attachments/assets/9d14cd4d-72d9-4f2c-bba2-9f8567386350)
+
